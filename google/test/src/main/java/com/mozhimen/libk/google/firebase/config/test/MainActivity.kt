@@ -5,7 +5,7 @@ import android.util.Log
 import com.google.firebase.remoteconfig.ktx.get
 import com.mozhimen.configk.google.ConfigKGoogleMgr
 import com.mozhimen.uik.databinding.bases.viewbinding.activity.BaseActivityVB
-import com.mozhimen.kotlin.lintk.optins.OApiInit_InApplication
+import com.mozhimen.kotlin.lintk.optins.api.OApiInit_InApplication
 import com.mozhimen.kotlin.utilk.android.widget.showToast
 import com.mozhimen.libk.google.firebase.basic.FirebaseBasicMgr
 import com.mozhimen.libk.google.firebase.basic.optins.OApiInit_InApplication_FirebaseBasicMgr
